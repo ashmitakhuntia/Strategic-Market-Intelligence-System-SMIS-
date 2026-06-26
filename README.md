@@ -54,7 +54,7 @@ The whole pipeline runs through a single entry point — `run_research_pipeline(
 ## Project Structure
 
 ```
-strategic-market-intelligence-system/
+Strategic-Market-Intelligence-System-SMIS/
 ├── agents.py          # Market Intelligence, Trend, Insights & Recommendation, and Critic agents
 ├── tools.py           # Web search, page scraping, and Hindsight memory tools
 ├── pipeline.py        # Orchestrates the 4-agent pipeline (run_research_pipeline)
