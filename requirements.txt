@@ -1,0 +1,30 @@
+# Core agent framework
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# LLM provider — Groq
+langchain-groq>=0.2.0
+groq>=0.11.0
+
+# Search tool — Tavily
+langchain-tavily>=0.2.0
+tavily-python>=0.5.0
+
+# Persistent agent memory — Hindsight (Cloud client)
+hindsight-client>=0.4.0
+hindsight-langgraph>=0.1.0
+
+# Web scraping for the Reader agent
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+lxml>=6.0.0
+html5lib>=1.1
+
+# UI
+streamlit>=1.38.0
+
+# Env var loading
+python-dotenv>=1.0.0
+pydantic>=2.11.0
+typing-extensions>=4.15.0
