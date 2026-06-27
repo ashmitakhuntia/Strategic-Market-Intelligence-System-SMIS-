@@ -59,8 +59,9 @@ Strategic-Market-Intelligence-System-SMIS/
 ├── tools.py           # Web search, page scraping, and Hindsight memory tools
 ├── pipeline.py        # Orchestrates the 4-agent pipeline (run_research_pipeline)
 ├── app.py             # Streamlit UI
+├── memory.py
 ├── requirements.txt
-└── .env               # GROQ_API_KEY and Hindsight config
+└── .gitignore              
 ```
 
 ## Installation
